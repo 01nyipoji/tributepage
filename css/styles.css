@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main{
+    width: 50%;
+    margin: auto;
+}
+
+#header{
+    width: 50%;
+    margin: 20px 0;
+    padding-left: 200px;
+    padding-bottom: 20px;
+    display: block;
+    justify-items: center;
+    text-align: center;
+}
+
+#header h2{
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+
+.img{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+
+.img figcaption{
+    background-color: white;
+    font-size: 12px;
+    width: 100%;
+}
+
+.time{
+    padding: 10px;
+    margin: 10px;
+}
+
+.time li{
+    padding: 12px;
+}
+
+.time h4{
+    text-align: center;
+    justify-self: center;
+}
